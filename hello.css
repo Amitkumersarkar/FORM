@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(241, 225, 204);
+}
+nav > ul > li {
+    display: inline;
+    margin-right: 10px;
+}
+li > a {
+    text-decoration: solid;
+}
+#a {
+    text-align: center;
+}

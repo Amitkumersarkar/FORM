@@ -1,0 +1,7 @@
+body{
+    background-color: bisque;
+}
+label {
+    display: block;
+    margin: 15px;
+}
